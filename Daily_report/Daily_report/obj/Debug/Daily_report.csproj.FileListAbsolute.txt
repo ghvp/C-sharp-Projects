@@ -1,0 +1,7 @@
+C:\Users\maggi\OneDrive\Desktop\Basic_C#_Programs\Daily_report\Daily_report\bin\Debug\Daily_report.exe.config
+C:\Users\maggi\OneDrive\Desktop\Basic_C#_Programs\Daily_report\Daily_report\bin\Debug\Daily_report.exe
+C:\Users\maggi\OneDrive\Desktop\Basic_C#_Programs\Daily_report\Daily_report\bin\Debug\Daily_report.pdb
+C:\Users\maggi\OneDrive\Desktop\Basic_C#_Programs\Daily_report\Daily_report\obj\Debug\Daily_report.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Desktop\Basic_C#_Programs\Daily_report\Daily_report\obj\Debug\Daily_report.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Desktop\Basic_C#_Programs\Daily_report\Daily_report\obj\Debug\Daily_report.exe
+C:\Users\maggi\OneDrive\Desktop\Basic_C#_Programs\Daily_report\Daily_report\obj\Debug\Daily_report.pdb
