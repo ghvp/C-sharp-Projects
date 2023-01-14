@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.genruntimeconfig.cache
