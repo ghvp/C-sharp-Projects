@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.genruntimeconfig.cache

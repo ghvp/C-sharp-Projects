@@ -42,7 +42,7 @@ namespace IncomeComparison
             int P1Hourly = Convert.ToInt32(Person1Hourly);
             int P1Weekly = Convert.ToInt32(Person1Weekly);
             //Multiplies the converted variables above
-            int result1 = P1Weekly * P1Hourly;
+            int result1 = P1Weekly * P1Hourly * 52;
             //Prints Person 1's salary to the console as a string
             Console.WriteLine(result1.ToString());
             //END OF DISPLAYING PERSON 1'S SALARY
@@ -53,7 +53,7 @@ namespace IncomeComparison
             Console.WriteLine("Annual Salary of Person 2: ");
             int P2Hourly = Convert.ToInt32(Person2Hourly);
             int P2Weekly = Convert.ToInt32(Person2Weekly);
-            int result2 = P2Weekly * P2Hourly;
+            int result2 = P2Weekly * P2Hourly * 52;
             Console.WriteLine(result2.ToString());
 
 

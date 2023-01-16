@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\bin\Debug\netcoreapp3.1\BooleanLogicPractice.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\bin\Debug\netcoreapp3.1\BooleanLogicPractice.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\bin\Debug\netcoreapp3.1\BooleanLogicPractice.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\bin\Debug\netcoreapp3.1\BooleanLogicPractice.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\bin\Debug\netcoreapp3.1\BooleanLogicPractice.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\bin\Debug\netcoreapp3.1\BooleanLogicPractice.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\obj\Debug\netcoreapp3.1\BooleanLogicPractice.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\obj\Debug\netcoreapp3.1\BooleanLogicPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\obj\Debug\netcoreapp3.1\BooleanLogicPractice.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\obj\Debug\netcoreapp3.1\BooleanLogicPractice.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\obj\Debug\netcoreapp3.1\BooleanLogicPractice.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\obj\Debug\netcoreapp3.1\BooleanLogicPractice.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\obj\Debug\netcoreapp3.1\BooleanLogicPractice.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\BooleanLogicPractice\BooleanLogicPractice\obj\Debug\netcoreapp3.1\BooleanLogicPractice.genruntimeconfig.cache
