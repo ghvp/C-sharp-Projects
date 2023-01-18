@@ -16,8 +16,7 @@ namespace CarInsuranceApproval
             //Printing text to the console
             Console.WriteLine("Have you ever had a DUI? Please enter \'true\' or \'false'");
             //Allows user input
-            bool DUI = false;
-            string HasDUI = Console.ReadLine();
+            bool DUI = Convert.ToBoolean(Console.ReadLine());
             //I'm not too sure how to implement this part.. would i convert the user input into a bool?
             //Applicant cannot have any DUIs 
 
@@ -43,7 +42,7 @@ namespace CarInsuranceApproval
             bool TicketsOk = TotalTickets < 3;
 
             //Checks if applicant qualifies 
-            bool Qualified = AgeOk && TicketsOk;
+            bool Qualified = AgeOk ^ DUI && TicketsOk;
             string ShowQualified = Convert.ToString(Qualified);
             Console.WriteLine("Qualified?");
             Console.WriteLine(Qualified);
