@@ -32,14 +32,14 @@ namespace CarInsuranceApproval
             //Converting var Age into an intger for easier bool validation 
             int ApplicantAge = Convert.ToInt32(Age);
             //bool for validating age
-            bool AgeOk = ApplicantAge >= 15;
+            bool AgeOk = ApplicantAge > 15;
 
             //converting DUI var to be accepted into a bool
             //unsure how to implement.. see comment on line 21
 
             //checking if applicant has more than 3 speeding tickets
             int TotalTickets = Convert.ToInt32(Tickets);
-            bool TicketsOk = TotalTickets < 3;
+            bool TicketsOk = TotalTickets <= 3;
 
             //Checks if applicant qualifies 
             bool Qualified = AgeOk ^ DUI && TicketsOk;
