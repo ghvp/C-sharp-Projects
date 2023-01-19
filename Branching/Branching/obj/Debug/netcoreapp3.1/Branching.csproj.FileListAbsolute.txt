@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.genruntimeconfig.cache

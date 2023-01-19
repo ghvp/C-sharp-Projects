@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\bin\Debug\netcoreapp3.1\PriceQuoteApp.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\bin\Debug\netcoreapp3.1\PriceQuoteApp.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\bin\Debug\netcoreapp3.1\PriceQuoteApp.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\bin\Debug\netcoreapp3.1\PriceQuoteApp.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\bin\Debug\netcoreapp3.1\PriceQuoteApp.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\bin\Debug\netcoreapp3.1\PriceQuoteApp.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\netcoreapp3.1\PriceQuoteApp.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\netcoreapp3.1\PriceQuoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\netcoreapp3.1\PriceQuoteApp.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\netcoreapp3.1\PriceQuoteApp.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\netcoreapp3.1\PriceQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\netcoreapp3.1\PriceQuoteApp.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\netcoreapp3.1\PriceQuoteApp.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\netcoreapp3.1\PriceQuoteApp.genruntimeconfig.cache
