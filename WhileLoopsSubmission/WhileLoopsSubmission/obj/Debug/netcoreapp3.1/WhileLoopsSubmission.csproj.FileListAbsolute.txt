@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\bin\Debug\netcoreapp3.1\WhileLoopsSubmission.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\bin\Debug\netcoreapp3.1\WhileLoopsSubmission.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\bin\Debug\netcoreapp3.1\WhileLoopsSubmission.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\bin\Debug\netcoreapp3.1\WhileLoopsSubmission.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\bin\Debug\netcoreapp3.1\WhileLoopsSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\bin\Debug\netcoreapp3.1\WhileLoopsSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\obj\Debug\netcoreapp3.1\WhileLoopsSubmission.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\obj\Debug\netcoreapp3.1\WhileLoopsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\obj\Debug\netcoreapp3.1\WhileLoopsSubmission.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\obj\Debug\netcoreapp3.1\WhileLoopsSubmission.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\obj\Debug\netcoreapp3.1\WhileLoopsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\obj\Debug\netcoreapp3.1\WhileLoopsSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\obj\Debug\netcoreapp3.1\WhileLoopsSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\WhileLoopsSubmission\WhileLoopsSubmission\obj\Debug\netcoreapp3.1\WhileLoopsSubmission.genruntimeconfig.cache
