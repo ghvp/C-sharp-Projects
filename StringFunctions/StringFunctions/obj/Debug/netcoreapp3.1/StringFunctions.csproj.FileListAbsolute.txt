@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.genruntimeconfig.cache

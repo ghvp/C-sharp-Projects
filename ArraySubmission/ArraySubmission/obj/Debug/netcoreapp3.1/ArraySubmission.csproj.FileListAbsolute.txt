@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.genruntimeconfig.cache
