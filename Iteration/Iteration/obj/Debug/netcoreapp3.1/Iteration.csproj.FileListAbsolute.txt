@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.genruntimeconfig.cache
