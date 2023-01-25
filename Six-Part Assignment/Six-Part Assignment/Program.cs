@@ -9,20 +9,19 @@ class Program
 
         //step 1
         //Adding a one dimensional array of strings
-        string[] step1Array = new string[5];
-        Console.WriteLine("Please enter in some values");
+        string[] step1Array = { "hi", "hey", "hello" };
+        Console.WriteLine("Please enter in some text");
+        string step1Input = Console.ReadLine();
         //Creating a loop that will iterate through each string
         for (int i = 0; i < step1Array.Length; i++ )
         {
-            //asking the user to input some text
-            step1Array[i] = Console.ReadLine();
-
+            step1Array[i] = step1Array[i] + step1Input;
         }
 
         //a second loop that will print off each string in the array
-        for (int i = 0; i < step1Array.Length; i++)
+        for (int y = 0; y < step1Array.Length; y++)
         {
-            Console.WriteLine("Values input by user " + step1Array[i]);
+            Console.WriteLine(step1Array[y]);
         }
         Console.ReadLine();
 
@@ -87,6 +86,7 @@ class Program
         colors.Add("green");
         colors.Add("pink");
         colors.Add("beige");
+        colors.Add("pink");
 
         Console.WriteLine("Please pick a color! (green, pink, beige)");
         string userColor = Console.ReadLine();
