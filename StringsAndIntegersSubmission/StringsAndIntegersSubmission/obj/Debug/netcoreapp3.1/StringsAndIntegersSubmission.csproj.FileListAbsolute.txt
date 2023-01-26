@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.genruntimeconfig.cache
