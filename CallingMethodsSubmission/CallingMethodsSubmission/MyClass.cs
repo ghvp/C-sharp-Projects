@@ -7,7 +7,7 @@ namespace CallingMethodsSubmission
     class MyClass
     {
         //Creating my first method and allowing it to take the parameter var
-        public int Method1(int var) 
+        public int Method(int var) 
         {
             //creating a variable to display the total 
             //of the user inputted number plus 20
@@ -16,19 +16,28 @@ namespace CallingMethodsSubmission
             //returning the total to the console
             return firstTotal;
         }
-        public int Method2(int var) 
+        public int Method(decimal var) 
         {
             //same function and format as the code block above
             //this method subtracts 5 from the user input
-            int secondTotal = var - 5;
+            decimal total2Decimal = var - 5;
+            int secondTotal = Convert.ToInt32(total2Decimal);
             return secondTotal;
         }
-        public int Method3(int var) 
+        public int Method(string var) 
         {
             //same function and format as the code block above
             //this method multiplies the user input by 5
-            int thirdTotal = var * 5;
-            return thirdTotal;
+            try
+            {
+                int thirdTotal = Convert.ToInt32(var) * 5;
+                return thirdTotal;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return 0;
+            }
         }
     }
 }
