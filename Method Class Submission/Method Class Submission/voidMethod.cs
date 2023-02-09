@@ -16,11 +16,5 @@ namespace Method_Class_Submission
             
             return;
         }
-
-        //attempt at calling named parameters
-        public void result(double var1, double var2) 
-        {
-            //not sure how to implement calling named parameters with my current code
-        }
     }
 }

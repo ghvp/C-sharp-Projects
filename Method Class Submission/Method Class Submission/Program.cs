@@ -21,7 +21,8 @@ namespace Method_Class_Submission
             //the first num is passed through an equation while the second num will
             //display on its own
             voidMethod method = new voidMethod();
-            method.methodOne(Usernum1, Usernum2);
+            //Calling the named parameters
+            method.methodOne(var1:Usernum1, var2:Usernum2);
 
             Console.ReadLine();
 
