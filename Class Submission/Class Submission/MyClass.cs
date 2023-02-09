@@ -11,7 +11,7 @@ namespace Class_Submission
         //Creating a void method with some parameters
         //num 1 is assigned a value then is divided 2
         //it'll output a total of num2 which is entered in by the user
-        public void VoidMethod(out int num1, int num2) 
+        public void methodOne(out int num1, int num2) 
         {
             num1 = 100;
             int result1 = num1 / 2;
