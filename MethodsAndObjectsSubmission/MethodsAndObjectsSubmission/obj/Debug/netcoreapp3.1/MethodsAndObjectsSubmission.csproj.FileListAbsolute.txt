@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\netcoreapp3.1\MethodsAndObjectsSubmission.genruntimeconfig.cache

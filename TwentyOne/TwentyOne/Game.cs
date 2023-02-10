@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace TwentyOne
+{
+    public class Game
+    {
+        //spelling prop and hitting tab button twice will shorten this process
+        public List<string> Players { get; set; }
+        public string Name { get; set; }
+        public string Dealer { get; set; }
+
+        public void ListPlayers() 
+        {
+            foreach (string player in Players) 
+            {
+                Console.WriteLine(player);
+            }
+        }
+    }
+}
