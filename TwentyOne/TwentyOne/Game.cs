@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Game
+    public abstract class Game
     {
         //spelling prop and hitting tab button twice will shorten this process
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
+        //creating an abstract method
+        public abstract void Play();
 
-        public void ListPlayers() 
+        public virtual void ListPlayers() 
         {
             foreach (string player in Players) 
             {
