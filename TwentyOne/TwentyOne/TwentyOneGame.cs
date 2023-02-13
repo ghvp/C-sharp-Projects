@@ -8,7 +8,7 @@ namespace TwentyOne
 {
     //To inherit from another class all you have to do is add a colon and the name
     //of the class you're  inheriting from
-    public class TwentyOneGame : Game
+    public class TwentyOneGame : Game, IWalkAway
     {
         public override void Play() 
         {
@@ -18,6 +18,10 @@ namespace TwentyOne
         {
             Console.WriteLine("21 Players: ");
             base.ListPlayers();
+        }
+        public void WalkAway(Player player) 
+        {
+            throw new NotImplementedException();
         }
     }
 }
