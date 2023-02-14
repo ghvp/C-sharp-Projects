@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.genruntimeconfig.cache
