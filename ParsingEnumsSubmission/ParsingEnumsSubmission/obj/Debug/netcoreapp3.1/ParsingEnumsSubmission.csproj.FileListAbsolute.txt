@@ -1,0 +1,14 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\netcoreapp3.1\ParsingEnumsSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\netcoreapp3.1\ParsingEnumsSubmission.genruntimeconfig.cache

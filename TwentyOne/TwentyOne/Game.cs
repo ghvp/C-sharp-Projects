@@ -15,9 +15,9 @@ namespace TwentyOne
         //creating an abstract method
         public abstract void Play();
 
-        public virtual void ListPlayers() 
+        public virtual void ListPlayers()
         {
-            foreach (Player player in Players) 
+            foreach (Player player in Players)
             {
                 Console.WriteLine(player);
             }

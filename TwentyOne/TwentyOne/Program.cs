@@ -4,19 +4,14 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
+//CTRL SHIFT B will compile to program to see if it'll run without error
 namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Vivienne";
-            game += player;
-            game = game - player;
-
+            
             Deck deck = new Deck();
             deck.Shuffle(3);
 
