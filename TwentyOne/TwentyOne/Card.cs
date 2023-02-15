@@ -5,7 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 namespace TwentyOne
 {
-    public class Card
+    //structs cant be inherited
+    public struct Card
     {
     
         public Suit Suit { get; set; }
