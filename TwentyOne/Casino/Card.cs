@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
-namespace TwentyOne
+namespace Casino
+
 {
     //structs cant be inherited
     public struct Card

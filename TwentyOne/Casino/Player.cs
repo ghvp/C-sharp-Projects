@@ -4,10 +4,15 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
+
 {
     public class Player
     {
+        public Player(string name) : this(name, 100) 
+        {
+
+        }
         //Creating a constructor for player. Constructors go at the top of the class
         public Player(string name, int beginningBalance) 
         {
@@ -22,6 +27,7 @@ namespace TwentyOne
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }
 
         public bool Bet (int amount) 
         {
