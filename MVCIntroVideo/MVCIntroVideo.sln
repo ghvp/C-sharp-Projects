@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCIntroVideo", "MVCIntroVideo\MVCIntroVideo.csproj", "{C660282B-70AD-49F3-951A-63644A837D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C660282B-70AD-49F3-951A-63644A837D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C660282B-70AD-49F3-951A-63644A837D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C660282B-70AD-49F3-951A-63644A837D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C660282B-70AD-49F3-951A-63644A837D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {021699C2-2BF9-486C-AF48-FE7CD67B4174}
+	EndGlobalSection
+EndGlobal
