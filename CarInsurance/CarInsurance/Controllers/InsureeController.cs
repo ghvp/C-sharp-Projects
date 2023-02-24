@@ -50,6 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -123,5 +124,73 @@ namespace CarInsurance.Controllers
             }
             base.Dispose(disposing);
         }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+
+        public ActionResult CalculateQuote(Insuree insuree)
+        {
+            insuree.Quote = 50; // base price
+
+            var bday = Convert.ToDateTime(insuree.DateOfBirth);
+            var age = DateTime.Now.Year - bday.Year;
+
+            if (age <= 18)
+            {
+                insuree.Quote += 100;
+            }
+            else if (age >= 19 && age <= 25)
+            {
+                insuree.Quote += 50;
+            }
+            else if (age >= 26)
+            {
+                insuree.Quote += 25;
+            }
+
+            var carYear = Convert.ToInt32(insuree.CarYear);
+            if (carYear < 2000)
+            {
+                insuree.Quote += 25;
+            }
+            else if (carYear > 2015)
+            {
+                insuree.Quote += 25;
+            }
+
+
+            if (insuree.CarMake == "Porsche")
+            {
+                insuree.Quote += 25;
+            }
+
+
+            if (insuree.CarModel == "911 Carrera" && insuree.CarMake == "Porsche")
+            {
+                insuree.Quote += 25;
+            }
+
+            int speedingtickets = insuree.SpeedingTickets;
+
+            if (speedingtickets > 0)
+            {
+                insuree.Quote += (speedingtickets * 10);
+            }
+            if (insuree.DUI)
+            {
+                insuree.Quote *= 1.25m;
+            }
+
+            if (insuree.CoverageType)
+            {
+                insuree.Quote *= 1.5m;
+            }
+
+            return View(insuree);
+        }
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
+
     }
 }
