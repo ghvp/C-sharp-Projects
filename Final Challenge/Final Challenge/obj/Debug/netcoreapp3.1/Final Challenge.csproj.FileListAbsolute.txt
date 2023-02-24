@@ -1,0 +1,35 @@
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.deps.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.runtimeconfig.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.runtimeconfig.dev.json
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Final Challenge.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.csproj.AssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.AssemblyInfoInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.AssemblyInfo.cs
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.csproj.CopyComplete
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\Final Challenge\Final Challenge\obj\Debug\netcoreapp3.1\Final Challenge.genruntimeconfig.cache
