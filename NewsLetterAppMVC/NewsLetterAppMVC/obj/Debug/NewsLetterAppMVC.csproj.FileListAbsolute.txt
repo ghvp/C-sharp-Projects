@@ -77,3 +77,7 @@ C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\NewsLetterAppMVC\NewsL
 C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\NewsLetterAppMVC\NewsLetterAppMVC\obj\Debug\NewsLetterAppMVC.csproj.CopyComplete
 C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\NewsLetterAppMVC\NewsLetterAppMVC\obj\Debug\NewsLetterAppMVC.dll
 C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\NewsLetterAppMVC\NewsLetterAppMVC\obj\Debug\NewsLetterAppMVC.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\NewsLetterAppMVC\NewsLetterAppMVC\bin\EntityFramework.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\NewsLetterAppMVC\NewsLetterAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\NewsLetterAppMVC\NewsLetterAppMVC\bin\EntityFramework.xml
+C:\Users\maggi\OneDrive\Documents\GitHub\C-sharp-Projects\NewsLetterAppMVC\NewsLetterAppMVC\bin\EntityFramework.SqlServer.xml
